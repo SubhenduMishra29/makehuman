@@ -51,3 +51,6 @@ from uuid import uuid4
 from mesh_operations import calculateSurface, calculateVolume
 
 from makehuman import getBasemeshVersion, getShortVersion, getVersionStr, getVersion
+
+class cartoon(guicommon.Object, animation.AnimatedMesh):
+    
