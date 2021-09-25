@@ -34,6 +34,7 @@ Abstract
 --------
 
 TODO
+to make a script for creating cartoon characters 
 """
 
 import numpy as np
